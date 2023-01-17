@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "639428672977",
+    "project_id": "fluttercondorapp",
+    "storage_bucket": "fluttercondorapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639428672977:android:37a96870c363dda06234f0",
+        "android_client_info": {
+          "package_name": "com.example.material_kit_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639428672977-s26b59arbrni6keq08aqaemk9gmsqs59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhllHnJoBz1vYyHyjIjmuzHkDcBtspsZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639428672977-s26b59arbrni6keq08aqaemk9gmsqs59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
